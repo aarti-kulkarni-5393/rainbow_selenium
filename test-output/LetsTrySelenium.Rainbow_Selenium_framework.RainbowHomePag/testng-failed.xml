@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePag]">
+  <test name="TCC00VerifyAddcCard(failed)">
+    <classes>
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard">
+        <methods>
+          <include name="setup"/>
+          <include name="TCC00VerifyAddcCard"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TCC00VerifyAddcCard -->
+    </classes>
+  </test> <!-- TCC00VerifyAddcCard(failed) -->
+</suite> <!-- Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePag] -->

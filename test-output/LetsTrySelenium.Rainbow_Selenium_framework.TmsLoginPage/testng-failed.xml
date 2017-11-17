@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.TmsLoginPage]">
+  <test name="Tc00_VerifyLogin(failed)">
+    <parameter name="loginURL" value="https://smtlogin.zycus.net/sso/login"/>
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.TmsLoginPage.Tc00_VerifyLogin">
+        <methods>
+          <include name="verifyLogin"/>
+          <include name="endLogin"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- LetsTrySelenium.Rainbow_Selenium_framework.TmsLoginPage.Tc00_VerifyLogin -->
+    </classes>
+  </test> <!-- Tc00_VerifyLogin(failed) -->
+</suite> <!-- Failed suite [LetsTrySelenium.Rainbow_Selenium_framework.TmsLoginPage] -->

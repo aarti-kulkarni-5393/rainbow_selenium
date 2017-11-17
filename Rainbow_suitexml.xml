@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage">
+<listeners>
+<listener class-name="LetsTrySelenium.Rainbow_Selenium_framework.customListner.Listner"></listener>
+</listeners>
+ <parameter name="browser" value="chrome"/>
+  <parameter name="loginURL" value="https://smtlogin.zycus.net/sso/login"/>
+ <test name="TC001_verifyDiscardCard">
+     <classes>
+      <class name="LetsTrySelenium.Rainbow_Selenium_framework.RainbowHomePage.TC001_verifyDiscardCard"/>
+    </classes>
+    
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

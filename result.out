@@ -1,0 +1,440 @@
+2017-11-06 19:39:46 INFO  Tc00_VerifyLogin:59-========starting verifyLogin test =======
+2017-11-06 19:39:47 INFO  RainbowHomePage:64-entering correct email id
+2017-11-06 19:39:47 INFO  RainbowHomePage:67-entering correct password
+2017-11-06 19:39:48 INFO  RainbowHomePage:69-clicking on login button
+2017-11-06 19:39:50 INFO  Tc00_VerifyLogin:59-========starting verifyLogin test =======
+2017-11-06 19:41:03 INFO  Tc00_VerifyLogin:59-========starting verifyLogin test =======
+2017-11-06 19:41:04 INFO  RainbowHomePage:64-entering correct email id
+2017-11-06 19:41:05 INFO  RainbowHomePage:67-entering correct password
+2017-11-06 19:41:05 INFO  RainbowHomePage:69-clicking on login button
+2017-11-06 19:41:11 INFO  Tc00_VerifyLogin:63-======== verifyLogin test finished  =======
+2017-11-06 19:41:11 INFO  Tc00_VerifyLogin:59-========starting verifyLogin test =======
+2017-11-06 19:41:31 INFO  RainbowHomePage:64-entering correct email id
+2017-11-06 19:41:31 INFO  RainbowHomePage:67-entering correct password
+2017-11-06 19:41:32 INFO  RainbowHomePage:69-clicking on login button
+2017-11-06 19:41:37 INFO  Tc00_VerifyLogin:63-======== verifyLogin test finished  =======
+2017-11-06 19:45:05 INFO  Tc00_VerifyLogin:59-========starting verifyLogin test =======
+2017-11-06 19:45:05 INFO  RainbowHomePage:64-entering correct email id
+2017-11-06 19:45:06 INFO  RainbowHomePage:67-entering correct password
+2017-11-06 19:45:07 INFO  RainbowHomePage:69-clicking on login button
+2017-11-07 15:57:47 INFO  TCC00VerifyAddcCard:50-========starting verifyLogin test =======
+2017-11-07 15:57:48 INFO  RainbowHomePage:64-entering correct email id
+2017-11-07 15:57:49 INFO  RainbowHomePage:67-entering correct password
+2017-11-07 15:57:49 INFO  RainbowHomePage:69-clicking on login button
+2017-11-07 15:57:56 INFO  TCC00VerifyAddcCard:50-========starting verifyLogin test =======
+2017-11-07 16:11:45 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:11:46 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:11:46 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:11:47 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:11:56 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:11:56 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:11:56 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (b7255b045226c849265b00fc052efc51)] -> id: addingnewcard-btn]
+2017-11-07 16:12:26 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:14:07 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:14:08 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:14:08 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:14:09 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:14:17 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:14:17 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:14:17 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (e03f9ba4b84d02914e29ffa2d6f54c5a)] -> id: addingnewcard-btn]
+2017-11-07 16:14:17 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:18:21 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:18:21 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:18:23 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:18:23 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:18:34 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:18:34 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:18:34 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (0f5ba4c3462d7a8aa3c8df9c458c910f)] -> id: addingnewcard-btn]
+2017-11-07 16:19:04 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:21:10 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:21:10 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:21:11 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:21:11 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:21:16 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:21:16 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:21:22 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (9758d000cd62b90c3150de545bc43dd5)] -> id: addingnewcard-btn]
+2017-11-07 16:21:22 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:22:59 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:22:59 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:23:00 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:23:00 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:23:05 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:23:05 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:23:07 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (400946ab227259f8b15d5e85c6342536)] -> id: addingnewcard-btn]
+2017-11-07 16:23:07 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (400946ab227259f8b15d5e85c6342536)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:23:08 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (400946ab227259f8b15d5e85c6342536)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:23:14 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:26:02 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:26:03 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:26:03 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:26:04 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:26:15 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:26:15 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:26:15 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (ee4bbc14f7d4ce589b84a6196dd88a24)] -> id: addingnewcard-btn]
+2017-11-07 16:26:16 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (ee4bbc14f7d4ce589b84a6196dd88a24)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:26:16 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (ee4bbc14f7d4ce589b84a6196dd88a24)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:26:21 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:27:54 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:27:54 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:27:55 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:27:55 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:28:01 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:28:01 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:28:01 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> id: addingnewcard-btn]
+2017-11-07 16:28:02 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:28:03 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:28:04 INFO  RainbowHomePage:91-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 16:28:04 INFO  TCC00VerifyAddcCard:61-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 16:28:06 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:28:06 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:28:07 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:28:07 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:28:12 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:28:12 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:28:13 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> id: addingnewcard-btn]
+2017-11-07 16:28:13 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:28:13 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:28:14 INFO  RainbowHomePage:91-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (5b076960ebd16ce217cc3ab365876ee2)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 16:28:14 INFO  TCC00VerifyAddcCard:61-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 16:31:55 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:31:56 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:31:57 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:31:57 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:32:09 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:32:09 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:32:09 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> id: addingnewcard-btn]
+2017-11-07 16:32:09 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:32:09 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:32:10 INFO  RainbowHomePage:91-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 16:32:11 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 16:32:11 INFO  TCC00VerifyAddcCard:62-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 16:32:14 INFO  TCC00VerifyAddcCard:55-========starting verifyLogin test =======
+2017-11-07 16:32:14 INFO  RainbowHomePage:61-entering correct email id
+2017-11-07 16:32:15 INFO  RainbowHomePage:64-entering correct password
+2017-11-07 16:32:15 INFO  RainbowHomePage:66-clicking on login button
+2017-11-07 16:32:21 INFO  TCC00VerifyAddcCard:58-======== verifyLogin test finished  =======
+2017-11-07 16:32:21 INFO  TCC00VerifyAddcCard:59-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 16:32:21 INFO  RainbowHomePage:80-clicking on add card button and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> id: addingnewcard-btn]
+2017-11-07 16:32:22 INFO  RainbowHomePage:83-clicking on first card and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 16:32:22 INFO  RainbowHomePage:87-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 16:32:23 INFO  RainbowHomePage:91-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (0547f6c8c8ea73c742156ab8f66141e6)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 16:32:24 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 16:32:24 INFO  TCC00VerifyAddcCard:62-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 21:41:45 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-07 21:41:45 INFO  RainbowHomePage:78-entering correct email id
+2017-11-07 21:41:46 INFO  RainbowHomePage:81-entering correct password
+2017-11-07 21:41:46 INFO  RainbowHomePage:83-clicking on login button
+2017-11-07 21:42:00 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-07 21:42:00 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 21:42:00 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> id: addingnewcard-btn]
+2017-11-07 21:42:00 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 21:42:01 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 21:42:01 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 21:42:02 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 21:42:02 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 21:42:04 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-07 21:42:04 INFO  RainbowHomePage:78-entering correct email id
+2017-11-07 21:42:04 INFO  RainbowHomePage:81-entering correct password
+2017-11-07 21:42:05 INFO  RainbowHomePage:83-clicking on login button
+2017-11-07 21:42:09 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-07 21:42:09 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 21:42:10 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> id: addingnewcard-btn]
+2017-11-07 21:42:10 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 21:42:10 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 21:42:11 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (30e9a4f8464819c7ecf8a5812d332bd9)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 21:42:12 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 21:42:12 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 21:48:09 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-07 21:48:09 INFO  RainbowHomePage:78-entering correct email id
+2017-11-07 21:48:10 INFO  RainbowHomePage:81-entering correct password
+2017-11-07 21:48:10 INFO  RainbowHomePage:83-clicking on login button
+2017-11-07 21:48:19 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-07 21:48:19 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 21:48:20 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> id: addingnewcard-btn]
+2017-11-07 21:48:20 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 21:48:20 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 21:48:21 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 21:48:21 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 21:48:21 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 21:48:23 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-07 21:48:23 INFO  RainbowHomePage:78-entering correct email id
+2017-11-07 21:48:24 INFO  RainbowHomePage:81-entering correct password
+2017-11-07 21:48:24 INFO  RainbowHomePage:83-clicking on login button
+2017-11-07 21:48:29 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-07 21:48:29 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-07 21:48:29 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> id: addingnewcard-btn]
+2017-11-07 21:48:29 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-07 21:48:29 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-07 21:48:31 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (df6ea8bd003efacc0e0e7850b59c8046)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-07 21:48:31 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-07 21:48:31 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-07 21:48:34 INFO  TestBase:65-creating browser object chrome
+2017-11-07 21:48:36 INFO  TestBase:86-navigating tohttps://smtlogin.zycus.net/sso/login
+2017-11-07 21:48:42 INFO  TC001_verifyDiscardCard:30-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 11:43:45 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 11:43:45 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 11:43:46 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 11:43:46 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 11:43:57 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 11:43:57 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 11:43:57 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> id: addingnewcard-btn]
+2017-11-08 11:43:58 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 11:43:58 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 11:43:59 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 11:43:59 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 11:43:59 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 11:44:00 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 11:44:15 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 11:44:15 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 11:44:15 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 11:44:20 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 11:44:20 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 11:44:20 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> id: addingnewcard-btn]
+2017-11-08 11:44:20 INFO  TCC00VerifyAddcCard:76-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 11:44:20 INFO  RainbowHomePage:135-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (69a32316d3480a1cf4630e1dd3a589d9)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 11:52:13 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 11:52:13 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 11:52:14 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 11:52:14 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 11:52:22 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 11:52:22 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 11:52:22 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> id: addingnewcard-btn]
+2017-11-08 11:52:22 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 11:52:22 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 11:52:23 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 11:52:24 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 11:52:24 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 11:52:26 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 11:52:26 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 11:52:27 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 11:52:27 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 11:52:32 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 11:52:32 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 11:52:32 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> id: addingnewcard-btn]
+2017-11-08 11:52:33 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 11:52:33 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 11:52:34 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (a247e9678fe3ec4689de442e315ce40c)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 11:52:34 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 11:52:34 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 11:52:36 INFO  TCC00VerifyAddcCard:76-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 11:52:36 INFO  TCC00VerifyAddcCard:77-capturing First card name 
+2017-11-08 12:06:23 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 12:06:24 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:06:24 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:06:25 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:06:33 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 12:06:33 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 12:06:33 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> id: addingnewcard-btn]
+2017-11-08 12:06:39 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 12:06:39 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 12:06:40 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 12:06:40 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 12:06:41 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 12:06:44 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 12:06:44 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:06:45 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:06:45 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:06:50 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 12:06:50 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 12:06:50 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> id: addingnewcard-btn]
+2017-11-08 12:06:51 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 12:06:51 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 12:06:52 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (cd10bb708f225bad184d4276d80ffbea)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 12:06:52 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 12:06:53 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 12:06:57 INFO  TestBase:65-creating browser object chrome
+2017-11-08 12:06:59 INFO  TestBase:86-navigating tohttps://smtlogin.zycus.net/sso/login
+2017-11-08 12:09:17 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 12:09:18 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:09:19 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:09:19 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:09:28 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 12:09:28 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 12:09:28 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> id: addingnewcard-btn]
+2017-11-08 12:09:28 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 12:09:28 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 12:09:30 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 12:09:30 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 12:09:30 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 12:09:32 INFO  TCC00VerifyAddcCard:56-========starting verifyLogin test =======
+2017-11-08 12:09:32 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:09:33 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:09:33 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:09:39 INFO  TCC00VerifyAddcCard:59-======== verifyLogin test finished  =======
+2017-11-08 12:09:39 INFO  TCC00VerifyAddcCard:60-==========starting testcase TCC00VerifyAddcCard============
+2017-11-08 12:09:39 INFO  RainbowHomePage:97-clicking on add card button and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> id: addingnewcard-btn]
+2017-11-08 12:09:40 INFO  RainbowHomePage:100-clicking on first card and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//*[@id='addingCard-0']/a]
+2017-11-08 12:09:40 INFO  RainbowHomePage:104-clicking on tile_card name and object is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//*[@id='addingCardchild-0']/a]
+2017-11-08 12:09:41 INFO  RainbowHomePage:109-adding card to home page and objcet is:[[ChromeDriver: chrome on XP (713a387f07a8bf3975ef0d6a001a068f)] -> xpath: .//span[contains(text(),'Add')]]
+2017-11-08 12:09:42 INFO  TestBase:125-screenshot has been taken for:addcard
+2017-11-08 12:09:42 INFO  TCC00VerifyAddcCard:65-==========finished testcase TCC00VerifyAddcCard============
+2017-11-08 12:09:46 INFO  TestBase:65-creating browser object chrome
+2017-11-08 12:09:48 INFO  TestBase:86-navigating tohttps://smtlogin.zycus.net/sso/login
+2017-11-08 12:09:55 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:09:56 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:09:56 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:09:57 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:10:04 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:10:04 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:10:04 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:10:05 INFO  RainbowHomePage:135-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (c97ceb30a69b8eac9a8f9af31407247c)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:10:06 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:17:57 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:17:57 INFO  RainbowHomePage:78-entering correct email id
+2017-11-08 12:17:58 INFO  RainbowHomePage:81-entering correct password
+2017-11-08 12:17:59 INFO  RainbowHomePage:83-clicking on login button
+2017-11-08 12:18:03 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:18:03 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:18:03 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:18:05 INFO  RainbowHomePage:135-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (edfc220b81bf8e14516c150cbdd700f3)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:18:05 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:23:41 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:23:41 INFO  RainbowHomePage:80-entering correct email id
+2017-11-08 12:23:42 INFO  RainbowHomePage:83-entering correct password
+2017-11-08 12:23:43 INFO  RainbowHomePage:85-clicking on login button
+2017-11-08 12:23:50 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:23:50 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:23:50 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:23:50 INFO  RainbowHomePage:137-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (c399c2e5842eedca529b738e1de919e0)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:23:50 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:27:58 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:27:59 INFO  RainbowHomePage:80-entering correct email id
+2017-11-08 12:27:59 INFO  RainbowHomePage:83-entering correct password
+2017-11-08 12:28:00 INFO  RainbowHomePage:85-clicking on login button
+2017-11-08 12:28:06 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:28:06 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:28:06 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:28:06 INFO  RainbowHomePage:137-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (049790ab540f6e58c490e1cb6f631ff2)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:28:07 INFO  RainbowHomePage:141-clicked on discard of crad:[[ChromeDriver: chrome on XP (049790ab540f6e58c490e1cb6f631ff2)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-08 12:28:07 INFO  RainbowHomePage:143-waited for given time
+2017-11-08 12:28:07 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:38:23 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:38:24 INFO  RainbowHomePage:82-entering correct email id
+2017-11-08 12:38:25 INFO  RainbowHomePage:85-entering correct password
+2017-11-08 12:38:25 INFO  RainbowHomePage:87-clicking on login button
+2017-11-08 12:38:32 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:38:32 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:38:32 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:38:32 INFO  RainbowHomePage:139-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (55077932eaa76dbf6368eddace2a6cfa)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:38:33 INFO  RainbowHomePage:143-clicked on discard of crad:[[ChromeDriver: chrome on XP (55077932eaa76dbf6368eddace2a6cfa)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-08 12:38:33 INFO  RainbowHomePage:145-waited for given time
+2017-11-08 12:38:33 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:44:21 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:44:21 INFO  RainbowHomePage:82-entering correct email id
+2017-11-08 12:44:22 INFO  RainbowHomePage:85-entering correct password
+2017-11-08 12:44:22 INFO  RainbowHomePage:87-clicking on login button
+2017-11-08 12:44:29 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:44:29 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:44:29 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:44:29 INFO  RainbowHomePage:141-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (32da664c7b3f7492dc5c9e55fe7c3306)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:44:30 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:57:00 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-08 12:57:01 INFO  RainbowHomePage:82-entering correct email id
+2017-11-08 12:57:02 INFO  RainbowHomePage:85-entering correct password
+2017-11-08 12:57:03 INFO  RainbowHomePage:87-clicking on login button
+2017-11-08 12:57:10 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-08 12:57:10 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-08 12:57:10 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-08 12:57:11 INFO  RainbowHomePage:141-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (30fc9e56597300b181b5a53aeb53ba0c)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-08 12:57:11 INFO  RainbowHomePage:145-clicked on discard of crad:[[ChromeDriver: chrome on XP (30fc9e56597300b181b5a53aeb53ba0c)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-08 12:57:11 INFO  RainbowHomePage:147-waited for given time
+2017-11-08 12:57:11 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-09 12:23:23 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-09 12:23:23 INFO  RainbowHomePage:76-entering correct email id
+2017-11-09 12:23:24 INFO  RainbowHomePage:79-entering correct password
+2017-11-09 12:23:24 INFO  RainbowHomePage:81-clicking on login button
+2017-11-09 12:23:28 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-09 12:23:28 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-09 12:23:28 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-09 12:23:29 INFO  RainbowHomePage:135-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (4a76769a030e3c18ade3d924d44beba6)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-09 12:23:29 INFO  RainbowHomePage:139-clicked on discard of crad:[[ChromeDriver: chrome on XP (4a76769a030e3c18ade3d924d44beba6)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-09 12:23:29 INFO  RainbowHomePage:141-waited for given time
+2017-11-09 12:23:29 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-09 12:36:27 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-09 12:36:28 INFO  RainbowHomePage:77-entering correct email id
+2017-11-09 12:36:29 INFO  RainbowHomePage:80-entering correct password
+2017-11-09 12:36:29 INFO  RainbowHomePage:82-clicking on login button
+2017-11-09 12:36:36 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-09 12:36:36 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-09 12:36:36 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-09 12:36:37 INFO  RainbowHomePage:136-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (9871fc141798b99629be9cdf12330141)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-09 12:36:37 INFO  RainbowHomePage:140-clicked on discard of crad:[[ChromeDriver: chrome on XP (9871fc141798b99629be9cdf12330141)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-09 12:36:42 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-09 13:06:28 INFO  TC001_verifyDiscardCard:43-========starting verifyLogin test =======
+2017-11-09 13:06:28 INFO  RainbowHomePage:77-entering correct email id
+2017-11-09 13:06:29 INFO  RainbowHomePage:80-entering correct password
+2017-11-09 13:06:29 INFO  RainbowHomePage:82-clicking on login button
+2017-11-09 13:06:36 INFO  TC001_verifyDiscardCard:46-======== verifyLogin test finished  =======
+2017-11-09 13:06:36 INFO  TC001_verifyDiscardCard:48-=========Starting TC001_verifyDiscardCard=========
+2017-11-09 13:06:36 INFO  TC001_verifyDiscardCard:49-capturing first card name of Rainbow home
+2017-11-09 13:06:36 INFO  RainbowHomePage:136-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (a9afcf9e28617ed68b04bad2ed74af5f)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-09 13:06:37 INFO  RainbowHomePage:140-clicked on discard of crad:[[ChromeDriver: chrome on XP (a9afcf9e28617ed68b04bad2ed74af5f)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-09 13:06:42 INFO  TC001_verifyDiscardCard:43-========starting verifyLogin test =======
+2017-11-09 13:11:00 INFO  TC001_verifyDiscardCard:43-========starting verifyLogin test =======
+2017-11-09 13:11:00 INFO  RainbowHomePage:77-entering correct email id
+2017-11-09 13:11:01 INFO  RainbowHomePage:80-entering correct password
+2017-11-09 13:11:01 INFO  RainbowHomePage:82-clicking on login button
+2017-11-09 13:11:06 INFO  TC001_verifyDiscardCard:46-======== verifyLogin test finished  =======
+2017-11-09 13:11:06 INFO  TC001_verifyDiscardCard:48-=========Starting TC001_verifyDiscardCard=========
+2017-11-09 13:11:06 INFO  TC001_verifyDiscardCard:49-capturing first card name of Rainbow home
+2017-11-09 13:11:07 INFO  RainbowHomePage:136-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (1cedb11cd718d5c3d49ca1331f49e0f7)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-09 13:11:07 INFO  RainbowHomePage:140-clicked on discard of crad:[[ChromeDriver: chrome on XP (1cedb11cd718d5c3d49ca1331f49e0f7)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-09 13:11:13 INFO  TC001_verifyDiscardCard:43-========starting verifyLogin test =======
+2017-11-10 15:39:47 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 15:39:48 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 15:39:48 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 15:39:49 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 15:40:01 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 15:40:01 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 15:40:01 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 15:40:01 INFO  RainbowHomePage:138-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (e2dc9c3754a262f30ddb40ed81073abd)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-10 15:40:01 INFO  RainbowHomePage:142-clicked on discard of crad:[[ChromeDriver: chrome on XP (e2dc9c3754a262f30ddb40ed81073abd)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-10 15:40:11 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 15:49:29 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 15:49:30 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 15:49:30 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 15:49:30 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 15:49:35 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 15:49:35 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 15:49:35 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 15:49:35 INFO  RainbowHomePage:138-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (bca31f1affacc819654673f0f5922b0c)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-10 15:49:36 INFO  RainbowHomePage:142-clicked on discard of crad:[[ChromeDriver: chrome on XP (bca31f1affacc819654673f0f5922b0c)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-10 15:49:47 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:10:46 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:10:46 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 20:10:47 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 20:10:47 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 20:10:56 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 20:10:56 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 20:10:56 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 20:10:56 INFO  RainbowHomePage:138-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (64ed2653e3e64010b51e535596ba317f)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-10 20:10:58 INFO  RainbowHomePage:142-clicked on discard of crad:[[ChromeDriver: chrome on XP (64ed2653e3e64010b51e535596ba317f)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-10 20:11:08 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:16:58 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:16:58 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 20:16:59 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 20:16:59 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 20:17:07 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 20:17:07 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 20:17:07 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 20:17:07 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:22:48 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:22:48 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 20:22:49 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 20:22:49 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 20:22:55 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 20:22:55 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 20:22:55 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 20:22:55 INFO  Listner:80-screenshot has been succesfuly taken for failur method: verifyDiscardCard
+2017-11-10 20:22:55 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:24:57 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
+2017-11-10 20:24:57 INFO  RainbowHomePage:79-entering correct email id
+2017-11-10 20:24:58 INFO  RainbowHomePage:82-entering correct password
+2017-11-10 20:24:58 INFO  RainbowHomePage:84-clicking on login button
+2017-11-10 20:25:03 INFO  TC001_verifyDiscardCard:44-======== verifyLogin test finished  =======
+2017-11-10 20:25:03 INFO  TC001_verifyDiscardCard:46-=========Starting TC001_verifyDiscardCard=========
+2017-11-10 20:25:03 INFO  TC001_verifyDiscardCard:47-capturing first card name of Rainbow home
+2017-11-10 20:25:03 INFO  RainbowHomePage:138-clicked on moreoptions of crad:[[ChromeDriver: chrome on XP (9e25bc5d7040b20c4c330f6a4265a45a)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//*[@class='rb-cd-header-right ng-binding']/span]
+2017-11-10 20:25:04 INFO  RainbowHomePage:142-clicked on discard of crad:[[ChromeDriver: chrome on XP (9e25bc5d7040b20c4c330f6a4265a45a)] -> xpath: .//*[@id='card-wrapper']/li[1]/.//span[contains(text(),'Discard')]]
+2017-11-10 20:25:14 INFO  Listner:80-screenshot has been succesfuly taken for failur method: verifyDiscardCard
+2017-11-10 20:25:14 INFO  TC001_verifyDiscardCard:41-========starting verifyLogin test =======
